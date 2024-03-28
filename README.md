@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cooknan
 - 👀 I’m interested in baritone ukulele and dogs
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning makecode for Code and Circuit, Amesbury, MA
+- 💞️ I’m looking to collaborate on ...blocks
 - 📫 How to reach me ...here
 
 <!---
